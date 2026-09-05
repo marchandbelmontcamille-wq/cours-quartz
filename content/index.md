@@ -2,4 +2,4 @@
 title: Welcome to Quartz
 ---
 
-Cours de Cmarbel15 - Test
+Cours de Cmarbel15
