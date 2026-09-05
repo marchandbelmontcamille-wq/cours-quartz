@@ -1,5 +1,3 @@
 ---
-title: Welcome to Quartz
+title: Cours de Cmarbel15
 ---
-
-Cours de Cmarbel15
