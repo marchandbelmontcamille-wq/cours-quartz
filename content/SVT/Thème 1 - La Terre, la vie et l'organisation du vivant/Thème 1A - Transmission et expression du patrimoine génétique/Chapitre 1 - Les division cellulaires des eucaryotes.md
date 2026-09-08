@@ -8,6 +8,7 @@ _Problématique :_ Comment se transmet le matériel génétique au cours des div
 ## I- La mitose, une reproduction cellulaire conforme   
 ![[SVT-1.png]]
 ![[SVT-2.png]]
+![[content/images/SVT-3.png]]
 
 | Nom de la phase | Photo de la phase | Nombre de chromatides par chromosome par cellule | Commentaires de chaque phase (doc 4)                                          |
 | --------------- | ----------------- | ------------------------------------------------ | ----------------------------------------------------------------------------- |

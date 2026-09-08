@@ -1,0 +1,13 @@
+## Introduction :
+ Au début du 18e siècle, une nation désigne une population qui partage un certain nombre d'éléments communs, qui lui donnent un sentiment d'unité. Les éléments peuvent être la langue, la religion, des références historiques communes, la nourriture, la musique, ... Au 18e siècle, l'idée apparait que la nation doit détenir le pouvoir politique. C'est le principe de la souveraineté de la nation. C'est une idée qui va être développée par les philosophes des Lumières.
+
+## Problématique :
+Comment s'impose en France, le principe de la souveraineté de la nation ?
+
+## I- La crise de l'Ancien Régime
+### 1. Présentation de l'Ancien Régime
+La France est sous un régime de monarchie absolue de droit divin. Le roi possède tous les pouvoirs qu'il tient de Dieu à travers sa famille. Le pouvoir se transmet de père en fils. La monarchie absolue française apparait comme un modèle en Europe. Le roi sur le trône en 1789 est Louis XVI. La société en 89 est une société d'ordres. C'est a dire que la population est divisée en trois groupes définis juridiquement qu'on peut diviser en deux catégories : Les ordres privilégiés sont la noblesse et le clergé. Ils sont minoritaires (3% de la population) et bénéficient de plusieurs avantages tels qu'une exemption de la plupart des impôts, des places réservées dans l'administration. etc. La dernière catégorie est le Tiers-Etat (97% de la population) qui ne bénéficie pas de privilèges. Il est divisé par une fracture socio-économique avec d'un côté, la bourgeoisie et de l'autre, le petit peuple.
+### 2. Contestation de l'Ancien Régime
+Les philosophes des Lumières vont contester l'Ancien Régime et défendent de nouveaux principes comme l'égalité et la liberté, qui remettent en cause la société d'ordres. Ces idées se diffusent dans une partie de la population à savoir la bourgeoisie et la haute noblesse, dans les cafés ou les salons ou par des brochures, des livres. Des modèles étrangers influencent également certains français comme le modèle anglais de la monarchie parlementaire ou le modèle américain de la République qui apparu durant la Révolution Américaine où des Français sont apparus.
+
+La monarchie, dans les années 1980 , est aux prises avec une crise financière, au bord de la banqueroute, surendetté. Face à cette situation, certains ministres proposent de faire payer la noblesse. Le mécontentement grimpe suite à la hausse des prix et se traduit par quelques affrontements entre population et l'armée en province
