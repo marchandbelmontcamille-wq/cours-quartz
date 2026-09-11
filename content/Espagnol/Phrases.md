@@ -1,4 +1,4 @@
-  1-Este año curso primero de bachillerato
+1-Este año curso primero de bachillerato
 2-Estudio mates, espanol, inglés, déporte, geografia. En las especialidades, estudio sciencas de la vida y phisica quimica
 3-Prefiero las mates, porque son interesantes
 4-Me preocupan mis notas

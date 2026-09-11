@@ -17,4 +17,10 @@ Galaxy
 Space X
 Spacecraft
 Spoutnik 
+Satelite
+Super Nova
 1969   
+
+## Activité JFK
+![[Feuille a coller.png]]
+	Il s'agit d'un discours prononcé par John Fitzgerald Kennedy, président des US, en 1962 à Houston au Texas. Il annonce lancer un programme spatial pour se poser sur la Lune dans la décennie suivante et avant l'URSS.

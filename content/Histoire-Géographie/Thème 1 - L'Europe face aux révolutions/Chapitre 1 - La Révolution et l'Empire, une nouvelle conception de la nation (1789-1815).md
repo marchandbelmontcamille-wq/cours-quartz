@@ -11,3 +11,15 @@ La France est sous un régime de monarchie absolue de droit divin. Le roi possè
 Les philosophes des Lumières vont contester l'Ancien Régime et défendent de nouveaux principes comme l'égalité et la liberté, qui remettent en cause la société d'ordres. Ces idées se diffusent dans une partie de la population à savoir la bourgeoisie et la haute noblesse, dans les cafés ou les salons ou par des brochures, des livres. Des modèles étrangers influencent également certains français comme le modèle anglais de la monarchie parlementaire ou le modèle américain de la République qui apparu durant la Révolution Américaine où des Français sont apparus.
 
 La monarchie, dans les années 1980 , est aux prises avec une crise financière, au bord de la banqueroute, surendetté. Face à cette situation, certains ministres proposent de faire payer la noblesse. Le mécontentement grimpe suite à la hausse des prix et se traduit par quelques affrontements entre population et l'armée en province
+
+En 1788, Louis XVI décide, pour régler les différents problèmes, la réunion des Etats Généraux pour 1789. C'est une assemblée exceptionnelle qui rassemble les députés de chacun des ordres pour conseiller le roi. Des députés vont être élus pour les Etats Généraux. Lors de ces élection, il y a des débats politiques d'autant plus que lors de ces assemblées, des doléances peuvent être présentées
+## II- La fin de l'Ancien Régime et l'échec de la monarchie parlementaire 
+### 1) La nation en révolution
+#### a) La révolte des députés à Versailles
+Les Etats Généraux s'ouvrent à Versailles le 5 mai 1789. Quasiment immédiatement, les débats se retrouvent bloqués autour des modalités de la prise de décision finale des Etats Généraux avec deux versions qui s'opposent :
+- La version traditionnelle : Le vote par ordre. Cela donne l'avantage aux ordres privilégiés.
+- La nouvelle version défendue par les députés du Tiers Etat : Le vote par tête.
+	- Chaque député a une voix
+	- La majorité appartient au Tiers Etat
+	- L'idée du vote par tête est la conséquence du principe de la souveraineté de la nation
+	- 

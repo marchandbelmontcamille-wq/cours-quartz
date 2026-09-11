@@ -8,3 +8,5 @@
   ![[SVT-3.png]]
 - **SVT-4**
   ![[SVT-4.png]]
+- **SVT-5**
+![[SVT-5.pdf]]

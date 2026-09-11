@@ -136,7 +136,7 @@ $$|\sqrt{2} - 1| = \sqrt{2} - 1$$
 
 Wait, looking at the context of our conversation, we were talking about absolute value (Chapitre 9). But the selected text is the full Exercises note. There's no specific exercise about absolute value in the selected text.
 
-I should ask which exercise they want the answer to.</think>Euh, tu veux la réponse à quel exercice exactement ? 😅 Parce que là t'as sélectionné toute ta note [[Exercices]] et y'a plein d'exos dedans. 
+I should ask which exercise they want the answer to.</think>Euh, tu veux la réponse à quel exercice exactement ? 😅 Parce que là t'as sélectionné toute ta note [[Act1]] et y'a plein d'exos dedans. 
 
 C'est un exo du chapitre 9 sur la valeur absolue que tu veux que je t'aide ?
 [Timestamp: 2026/03/11 16:30:07]

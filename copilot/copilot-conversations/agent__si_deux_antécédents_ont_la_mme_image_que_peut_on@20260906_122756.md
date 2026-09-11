@@ -42,5 +42,5 @@ $$f(1)=3-6-1=-4 \quad\Rightarrow\quad S(1\,;\,-4)$$
 
 Et comme $a=3>0$, la parabole est tournée vers le haut : $f$ est décroissante sur $]-\infty\,;1]$ puis croissante sur $[1\,;+\infty[$, avec un minimum de $-4$ atteint en $1$ — de quoi remplir le tableau de variations de la question 5.
 
-Veux-tu que j'ajoute la rédaction des questions 3, 4 et 5 dans [[Chapitre 1 - Polynômes du second degré]] ?
+Veux-tu que j'ajoute la rédaction des questions 3, 4 et 5 dans [[Act1]] ?
 [Timestamp: 2026/09/06 12:27:56]
