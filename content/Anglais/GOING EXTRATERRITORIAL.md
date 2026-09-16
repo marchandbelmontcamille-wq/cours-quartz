@@ -23,4 +23,4 @@ Super Nova
 
 ## Activité JFK
 ![[Feuille a coller.png]]
-	Il s'agit d'un discours prononcé par John Fitzgerald Kennedy, président des US, en 1962 à Houston au Texas. Il annonce lancer un programme spatial pour se poser sur la Lune dans la décennie suivante et avant l'URSS.
+Il s'agit d'un discours prononcé par John Fitzgerald Kennedy, président des USA, en 1962 à Houston au Texas. Il annonce lancer un programme spatial pour se poser sur la Lune dans la décennie suivante et avant l'URSS. Il dît aussi que ce sera couteux et risqué mais qu'il y aura beaucoup dé bénéfices

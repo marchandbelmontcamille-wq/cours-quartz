@@ -29,8 +29,20 @@ Les noyaux des atomes de la centaine d'éléments chimiques stables résultent d
 alors que la Terre est constituée surtout d'oxygène, de fer, de silicium, de magnésium et les êtres vivants de carbone, hydrogène, oxygène et azote
 
 ## II- La radioactivité
+![[ES-7.png]]
 1) Ce sont Henri Becquerel, Marie et Pierre Curie. Ils nomment les éléments qu'ils découvrent uranium, polonium et radium
 2) Elle est utilisée pour éliminer les tumeurs cancéreuses. Les radiations peuvent causer des brulures, des lésions, provoquer la stérilité, le cancer ou des mutations génétiques
 3) Elle est utilisée dans la production d'énergie ou la stérilisation des repas
 4) Le noyau de plomb possède 214 nucléons
-5) La radioactivité consiste en l'émission de rayons radioactifs. Des noyaux instables se transforment de manière spontanée et irréversible, en émettant des rayonnements; pour se scinder en plusieurs noyaux  
+5) La radioactivité consiste en l'émission de rayons radioactifs. Des noyaux instables se transforment de manière spontanée et irréversible, en émettant des rayonnements; pour se scinder en plusieurs noyaux.
+6) Désintégration d'un noyau instable accompagnée par l'émission de rayonnements. Elle se fait de manière irréversible et spontanée. Elle s'accompagne de plusieurs rayons (alpha, beta et gamma).
+
+Certains noyaux sont instables et se désintègrent : C'est la radioactivité.
+Cette désintégration produit une énergie qui est exploitable. L'instant de désintégration d'un noyau radioactif est aléatoire
+## III- La datation par la radioactivité
+![[Image a mettre.png]]
+1) Au fil du temps, il y a de plus en plus d'éléments qui se désintègrent
+2) Il y a toujours des éléments non désintégrés
+3) C'est le moment ou il y a autant d'éléments désintégrés que d'éléments intacts 
+4) 5500 ans
+5) 

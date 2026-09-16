@@ -1,0 +1,4 @@
+![[FR-9.png]]![[FR-10.png]]
+![[FR-11.png]]
+
+Dans cet extrait des Pauvres gens de Victor Hugo (1859), la mer est dépeinte comme une force dangereuse et impitoyable. Le champ lexical de la violence est omniprésent : "rude bataille" (v. 2), "les lames en démence" (v. 14), "le gouffre roule et tord ses plis démesurés" (v. 24). L'accumulation des adjectifs péjoratifs "mobile, obscur, capricieux, changeant" (v. 16) parle d'une mer imprévisible que l'homme ne peut maîtriser. Les conditions météo extrêmes comme "pluie ou bourrasque" (v. 3) ou "les mers glacées" (v. 26) renforcent cette image d'une nature indifférente à la souffrance humaine. Ainsi, Hugo fait de la mer un ennemi implacable afin de susciter la pitié du lecteur pour ce pêcheur condamné à un labeur épuisant et périlleux.

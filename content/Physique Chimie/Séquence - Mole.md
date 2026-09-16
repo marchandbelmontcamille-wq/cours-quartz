@@ -39,10 +39,23 @@ Il ya 0,99 gramme par litre de calcium dans le sang
 6) $\begin {align} C &=\frac {n} {V}\\ &=\frac {0,0025} {1} \\ &=0,0025\frac {\text {mol}} {\text {L}}^{-1}\end {align}$ 
 Il y a 0,0025 mol par litre de calcium dans le sang
 7) $C=\frac {n} {V}$ a) 2 mol b) 2mmol c) la concentration molaire est doublée d) la concentration molaire est divisée par 2 e) C'est 2 mol dans 100ml car c'est la meme quantité de matière dans un plus petit volume ; 0,4 dans 100ml car la matière est divisée par 5 alors que le volume par 10 par rapport à l'autre proposition
+8)  a) la concentration molaire double b)
+9) $ 
 
 ### 7p25)
 1) $\begin {align} M_V&=8\times 12+8\times 1+3\times 16\\ &=152\frac {\text {g}} {\text {mol}}^{-1}\end {align}$  La masse molaire de vanilline est de 152 grammes par mol
 2) $\begin {align} m&=152\times 2,9\times 10^{-2}\\ &=4,4g\end {align}$ 4,4 g de vanilline ont élé prélevés
 ## 11p25)
 1) $\begin {align} n_{tot}&=\frac {V} {V_m}\\ &=0,125mol\end {align}$ Il y a 0,125 mol de gaz
-2) $\begin {align}n_{tot}=n+n' \\ n'&=n_{tot}-n \\&=0,125-0,05\\&=0,075mol\end {align}$ Il y a 0,075mol de diazote
+2) $\begin {align}n_{tot}&=n+n' \\ n'&=n_{tot}-n \\&=0,125-0,05\\&=0,075mol\end {align}$ Il y a 0,075mol de diazote
+## 13p25)
+$n=C\times V=0,1\times 50\times 10^{-3}=50\times 10^{-4}$ mol
+$m=n\times M=50\times 10^{-4}\times 176=0,88$g
+
+$n=0,025$ mol
+$m=4,4$ g
+
+## 19p26)
+$F=25$
+$M=12\times 8+10+4\times 14+2\times 16=194$ g par mol
+$n=194\times 0.38=1,9\times 10^3$ mol

@@ -67,6 +67,28 @@
 >\begin {align} g(x)&=3x^2+6x+1\\&=3(x^2+2x)+1\\&x^2+2xy\\&=3[(x+1)^2-1^2]+1\\&=3(x+1)^2-3+1\\&=3(x+1)^2-2\\&\alpha=-1\\&\beta=-2\end {align}
 >$$
 
-[!TIP] Demonstration 
-	$$\begin {align}&=ax^2+bx+c\\&=a(x^2+\frac {b} {a}x)+c\\&=(x^2+2\times\frac {b} {2a}x)+c\\&x^2+2yx=(x+y)^2-y\\&=a[(x+\frac {b} {2a})^2-\frac {b} {2a}]+c\\&=a(x+\frac {b} {2a})^2-a(\frac {b} {2a})+c\\&=a(x+\frac {b} {2a})^2-a\times\frac {b^2}{2^2\times a^2}+c\\&=a(x+\frac{b} {2a})^2-\frac {b^2}{4a}+c\\&=a(x-(-\frac {b} {2a}))^2-\frac {b^2} {4a}+c\\&=a(x-\alpha)^2+\beta\end {align}
+>[!TIP] Demonstration 
+>$$\begin {align}&=\boxed {ax^2+bx+c}\\&=a(x^2+\frac {b} {a}x)+c\\&=(x^2+2\times\frac {b} {2a}x)+c\\&x^2+2yx=(x+y)^2-y\\&=a[(x+\frac {b} {2a})^2-\frac {b} {2a}]+c\\&=a(x+\frac {b} {2a})^2-a(\frac {b} {2a})+c\\&=a(x+\frac {b} {2a})^2-a\times\frac {b^2}{2^2\times a^2}+c\\&=a(x+\frac{b} {2a})^2-\frac {b^2}{4a}+c\\&=a(x-(-\frac {b} {2a}))^2-\frac {b^2} {4a}+c\\&=\boxed {a(x-\alpha)^2+\beta}\end {align}
 $$
+
+>[!NOTE] Propriété
+>La parabole représentative de $f(x)=a(x-\alpha)^2+\beta$ a pour axe de symétrie la droite d'équation $\boxed {x=\alpha}$
+
+>[!TIP] Démonstration
+>Soit $f(x)=a(x-\alpha)^2+\beta$
+>Soit $M$ et $N$ deux points tels que (avec $\epsilon>0$) :
+>$x_M=\alpha-\epsilon$ et $x_N=\alpha+\epsilon$
+>$M$ et $N$ sont sur la parabole donc
+>$\begin {align} y_M&=f(x_M) \\&=a(x_M-\alpha)^2+\beta\\&=a(\alpha-\epsilon-\alpha)^2+\beta\\&=a(\epsilon)^2+\beta\\&=a\epsilon^2+\beta\\ \\y_N&=f(x_N)\\&=a(x_N-\alpha)^2+\beta\\&=a(\alpha+\epsilon-\alpha)^2+\beta\\&=a\epsilon^2+\beta\end {align}$
+>Ainsi $y_M=y_N$ donc $M$ et $N$ sont symétriques l'un de l'autre sur la parabole. L'axe de symétrie passe alors par le milieu de $[MN]$. Donc l'axe de symétrie a pour équation $\boxed {x=\alpha}$
+
+>[!NOTE] Propriété
+>Le sommet de la parabole a pour coordonnées $\boxed{S(\alpha;\beta)}$
+
+>[!TIP] Démonstration
+>Le sommet S se trouve sur l'axe de symétrie donc $x_S=\alpha$. Et, il se trouve sur la parabole, donc $y_S=f(x_S)=f(\alpha)=a(\alpha-\alpha)^2+\beta=\beta$
+
+>[!EXAMPLE] Exemples :
+>$f(x)=-2(x+3)^2+5$
+>1) $S(-3;5)$
+>2) $-2x^2-12x-18+5$

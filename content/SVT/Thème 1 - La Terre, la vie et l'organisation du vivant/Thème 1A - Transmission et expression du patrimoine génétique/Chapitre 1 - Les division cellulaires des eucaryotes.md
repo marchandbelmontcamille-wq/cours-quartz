@@ -43,4 +43,13 @@ Le cycle cellulaire alterne entre l'**interphase** et la **mitose**.
 ### Bilan :
  Le cycle cellulaire est l'ensemble des étapes de la vie d'une cellule, comprenant l'interphase (G1, S, G2). Durant l'interphase, l'ADN est sous forme décondensée (chromatine). Chaque chromosome passe de 1 à 2 chromatides grâce à la réplication. Durant la mitose, l'ADN se condense sous forme de chromosomes visibles. La séparation des chromatides répartit équitablement l'ADN 2q en deux fois 1q. Garantissant le maintien de l'information génétique dans les deux cellules filles (reproduction conforme)
 ## III-La réplication de l'ADN : Les expériences de Meselson et Stahl
-2) Le mode de réplication est la réplication semi conservative 
+2) Le mode de réplication est la réplication semi conservative   
+## IV-Les mécanismes moléculaires de la réplication de l'ADN
+
+| Doc    | Infos extraites / Interprétation / Hypothèses                                                                                                                                                          | Liens avec les autres docs |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| Doc 1  | La réplication débute en mm tps en plusieurs endroits/ les endroits où ca réplique sont des yeux de réplication délimités par des fourches de réplications qui se déplacent en sens opposés            | Doc 2                      |
+| Doc 2  | L'ADN en doublé hélice s'ouvre et se sépare en deux brins où un nouveau brin complémentaire se forme pour reformer une doublé hélice                                                                   | Doc 1, Doc 3               |
+| Doc 3  | L'ADN polymérase s'accroche au brin parental et permet la formation du brin néoformé en assemblant des nucléotides libres dans le noyau                                                                | Doc 2, Doc 4, Doc 5        |
+| Doc 4  | L'ADN polymérase assemble les nucléotides libres en les faisant correspondre au nucléotide complémentaire du brin parental                                                                             | Doc 3, Doc 5               |
+| Doc 5  | Il ya parfois des erreurs et dans ce cas, l'ADN polymérase peut faire marche arrière pour retirer le nucléotide mal apparié et reprendre la réplication. Certaines erreurs peuvent subsister cependant | Doc 4, Doc 3               |
