@@ -41,7 +41,10 @@ Le cycle cellulaire alterne entre l'**interphase** et la **mitose**.
 4. Lors de la **mitose (phase M)**, l'ADN se condense sous forme de chromosomes bien visibles. La séparation des deux chromatides sœurs pendant l'anaphase puis la cytodiérèse répartissent équitablement le matériel génétique dans deux cellules filles, rétablissant la quantité d'ADN à 1q avec des chromosomes simples. (2n=2)
 
 ### Bilan :
- Le cycle cellulaire est l'ensemble des étapes de la vie d'une cellule, comprenant l'interphase (G1, S, G2). Durant l'interphase, l'ADN est sous forme décondensée (chromatine). Chaque chromosome passe de 1 à 2 chromatides grâce à la réplication. Durant la mitose, l'ADN se condense sous forme de chromosomes visibles. La séparation des chromatides répartit équitablement l'ADN 2q en deux fois 1q. Garantissant le maintien de l'information génétique dans les deux cellules filles (reproduction conforme)
+**Le cycle cellulaire est l'ensemble des étapes de la vie d'une cellule, comprenant l'interphase (G1, S, G2) et la mitose (M).**
+
+1. **Durant l'interphase, l'ADN est sous forme décondensée (chromatine). En phase S, la quantité d'ADN double (passage de 1q à 2q) : chaque chromosome passe de 1 à 2 chromatides grâce à la réplication.**
+2. **Durant la mitose, l'ADN se condense sous forme de chromosomes visibles. La séparation des chromatides répartit équitablement l'ADN (2q en deux fois 1q), garantissant le maintien de l'information génétique dans les deux cellules filles (reproduction conforme).**
 ## III-La réplication de l'ADN : Les expériences de Meselson et Stahl
 2) Le mode de réplication est la réplication semi conservative   
 ## IV-Les mécanismes moléculaires de la réplication de l'ADN
@@ -53,3 +56,21 @@ Le cycle cellulaire alterne entre l'**interphase** et la **mitose**.
 | Doc 3  | L'ADN polymérase s'accroche au brin parental et permet la formation du brin néoformé en assemblant des nucléotides libres dans le noyau                                                                | Doc 2, Doc 4, Doc 5        |
 | Doc 4  | L'ADN polymérase assemble les nucléotides libres en les faisant correspondre au nucléotide complémentaire du brin parental                                                                             | Doc 3, Doc 5               |
 | Doc 5  | Il ya parfois des erreurs et dans ce cas, l'ADN polymérase peut faire marche arrière pour retirer le nucléotide mal apparié et reprendre la réplication. Certaines erreurs peuvent subsister cependant | Doc 4, Doc 3               |
+Bilan :
+La réplication de l’ADN a lieu pendant la phase S de l’interphase, avant la division cellulaire. Elle transforme un chromosome à une chromatide en un chromosome à deux chromatides sœurs, sans modifier le nombre de chromosomes.
+
+Les expériences de Meselson et Stahl ont montré que la réplication est semi-conservative : chacune des deux molécules d’ADN obtenues est constituée d’un brin parental et d’un brin néoformé.
+
+Lors de la réplication, les deux brins de l’ADN se séparent et servent de matrices. L’ADN polymérase assemble des nucléotides selon leur complémentarité (A-T et C-G) pour former les nouveaux brins.
+
+En l’absence d’erreur, la réplication produit deux molécules d’ADN de même séquence et assure ainsi une copie conforme de l’information génétique. Une erreur non corrigée peut cependant être à l’origine d’une mutation.
+
+Après réplication, la mitose répartit les chromatides sœurs entre les deux cellules filles. Les mitoses successives produisent ainsi un clone, c’est-à-dire un ensemble de cellules possédant, sauf mutation, la même information génétique.
+## V- La méiose  : une division cellulaire à l'origine des cellules haploïdes
+- Regarder les vidéos et animations
+- Regarder les données 
+- Effectuer une observation au microscope
+
+Lors de la division de méiose, si l'un des chromosomes n'est pas réparti dans la bonne cellule, cette cellule aura un chromosome de plus, alors que sa cellule sœur, aura un chromosome de moins.
+[[Drawing 2026-09-18 17.33.31.excalidraw]]
+Lors de la méiose, un chromosome s'est réparti dans la mauvaise cellule ce qui a causé ce syndrome.

@@ -59,3 +59,4 @@ $m=4,4$ g
 $F=25$
 $M=12\times 8+10+4\times 14+2\times 16=194$ g par mol
 $n=194\times 0.38=1,9\times 10^3$ mol
+![[PC-7.png]]

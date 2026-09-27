@@ -40,9 +40,35 @@ alors que la Terre est constituée surtout d'oxygène, de fer, de silicium, de m
 Certains noyaux sont instables et se désintègrent : C'est la radioactivité.
 Cette désintégration produit une énergie qui est exploitable. L'instant de désintégration d'un noyau radioactif est aléatoire
 ## III- La datation par la radioactivité
-![[Image a mettre.png]]
+![[ES-8.png]]
 1) Au fil du temps, il y a de plus en plus d'éléments qui se désintègrent
 2) Il y a toujours des éléments non désintégrés
 3) C'est le moment ou il y a autant d'éléments désintégrés que d'éléments intacts 
-4) 5500 ans
-5) 
+4) 5500 ans (car il ya autant d'éléments pères que fils)
+5) 3850 ans (lu graphiquement)
+N$_0$ est le nombre initial d'atomes
+N$_{(t)}$ est le nombre d'atomes au temps considéré
+Demi-vie (t1/2) C'est la durée au bout de laquelle la moitié des noyaux radioactifs initiaux s'est désintégrée
+
+à $t_{\frac {1} {2}}$ : $\frac{N_0} {2}$ 
+à $2t_{\frac {1} {2}}$ : $\frac{N_0} {4}$ 
+à $3t_{\frac {1} {2}}$ : $\frac{N_0} {8}$
+
+La demi vie d'un noyau radioactif est la durée nécessaire pour que la moitié des noyaux initialement présents dans un échantillon macroscopique se soit désintégré. Cette demi vie est caractéristique du noyau radioactif. Ceci permet de dater des échantillons fossiles ou minéraux 
+## 6p33
+1) On utilise des produits radioactifs par doses limitées parce que leurs rayonnements peuvent causer plusieurs effets néfastes comme des tumeurs
+2) Il y a $10\times 10^{11}$ noyaux d'iode qui ont été injectés. La moitié du nombre initial est 5. La demie vie de l'iode est de 12h
+3) A chaque demie vie, le nombre de noyaux est divisé par 2. Au bout de trois demies vies, le nombre de noyaux est divisé par 8. Il en reste donc $1,25\times10^{11}$ noyaux
+4) C'est au bout de 45 heures
+## 2p32
+1) Ce sont dans le corps humain l'hydrogèhe et l'oxygène. Dans les végétaux ce sont l'hydrogène et le carbone
+2) Il y a 28% de carbone chez les végétaux contre 12% dans le corps humain
+## 11p32
+1) Nous pouvons voir sur le graphique que cela correspond à 10000 ans
+2) Après 50000 ans, il n'y a plus assez de noyaux de carbone 14 pour pouvoir déterminer l'âge efficacement
+3) C'est au bout de 5 demi vies
+## 13p32
+
+| t (ans) | 0    | 5    | 10   | 15   | 20  | 25  |
+| ------- | ---- | ---- | ---- | ---- | --- | --- |
+| N       | 8000 | 4000 | 2000 | 1000 | 500 | 250 |
