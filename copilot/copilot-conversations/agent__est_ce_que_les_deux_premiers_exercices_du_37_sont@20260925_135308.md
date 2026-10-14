@@ -42,7 +42,7 @@ $$m = n \times M = 5 \times 10^{-3} \times 158 = 0{,}79 \ \text{g}$$
 **En résumé :** les deux résultats sont bons, juste deux petites maladresses de présentation à corriger.
 [Timestamp: 2026/09/25 13:53:08]
 
-**user**: [[Exercices]] sur les deux suivants
+**user**: [[content/Mathématiques/Exercices]] sur les deux suivants
 [Timestamp: 2026/09/25 14:02:41]
 
 **ai**: Le fichier est déjà en mémoire, je vais regarder la suite du 37 — mais le fichier s'arrêtait à la ligne 107. Laisse-moi vérifier s'il y a plus.Voici l'analyse des exercices 37-A-3 et 37-A-4 :

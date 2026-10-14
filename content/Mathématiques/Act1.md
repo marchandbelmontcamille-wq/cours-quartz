@@ -1,1 +1,2 @@
-$$\begin {align}&x^2-5x+6\le0\\&\triangle=(-5)^2-4\times1\times6=1\\&x_1=\frac {-6-1} {2}=-\frac {7}{2}\\&x_2=\frac {-6+1} {2}=-\frac {5}{2}\\&-\infty|-\frac {7}{2}|-\frac {5}{2}|+\infty\\&+0-0+ \end {align}$$
+$$\begin {align}&\triangle=36\\&x_1=\frac {2-6}{4} \end {align}$$
+ 

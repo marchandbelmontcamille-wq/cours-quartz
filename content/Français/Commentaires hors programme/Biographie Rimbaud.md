@@ -39,3 +39,28 @@ Synthèse :
 - Ces fugues lui procurent des plaisirs simples mais profonds, des sensations agréables
 - Elles lui donnent l'impression de liberté
 - Elles sont source d'inspiration créatrice. En marchant, il rêve, il écrit
+
+
+| Parallélisme / Gradation                |                                                                                                                                                            |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Déterminant possessif => adresse au roi | 1° Tonalité polémique / Appel à contempler la révolte / Familiarité du ton 2° La révolte actuelle n'est que le résultat de tout ce qui a précédé 3° Rappel |
+| Répétition du terl                      |                                                                                                                                                            |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

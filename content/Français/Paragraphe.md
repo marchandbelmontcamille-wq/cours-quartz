@@ -49,3 +49,9 @@ Le poète n'a jamais cessé de défendre les plus faibles dans ses oeuvres et il
 ### Tableau exotique
 ### Un jaguar impressionnant
 ### Un monde violent
+
+---
+## La nature luxuriante
+## Le rêve du jaguar
+## Contraste
+Problématique : En quoi le poète nous offre t'il le tableau d'une nature à la fois superbe et cruelle

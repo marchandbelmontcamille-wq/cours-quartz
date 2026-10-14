@@ -110,5 +110,33 @@ $f(4,6)=3,012m$
 ## 8)
 ### 1°
 $$
-\begin {align}f(x)&=-0,5x^2+8x+2\\&=-0,5(x^2-16x)+2\\&=-0,5[(x-8)^2-8^2]+2\\&=-0,5(x-8)^2+64+2\\&=-0,5(x-8)^2+66  \end {align}
+\begin {align}f(x)&=-0,5x^2+8x+2\\&=-0,5(x^2-16x)+2\\&=-0,5[(x-8)^2-8^2]+2\\&=-0,5(x-8)^2+32+2\\&=-0,5(x-8)^2+34  \end {align}
 $$
+
+$$
+\begin {align}-0,5x^2+8x+2&=32\\-0,5x^2+8x-30&=0\\\triangle&=8-4\times-0,5\times-30=4\\x_1&=\frac {-8-\sqrt{4}}{-1}=10\\x_2&=\frac{-8+2}{-1}=6 \end {align}
+$$ S={10;6} Le ballon atteint y=32 à x_1=6 et x_2=10
+$$
+\begin {align}-0,5x^2+8x+2&=0\\\triangle&=8^2-4\times-0,5\times2=68\\x_1&=\frac {-8-\sqrt {68}}{-1}=8+\sqrt68\approx16,2\\x_2&=\frac{-8+\sqrt{68}}{-1}=8-\sqrt{68}\approx0,2 \end {align}
+$$ Le javelot touchera le sol à 16m de distance
+![[MA-5.png]]
+
+## 4)
+### 2)
+$$
+\begin {align}-2x^2+5x-4&\le0\\\triangle&=5^2-4\times-2\times-4=-7\\&\text{Il n'y a pas de solution réelle}\\&\text {Tableau de signes : |-|} \end {align}
+$$
+### 3)
+$$
+\begin {align}3x^2-24x+48&>0\\\triangle&=(-24)^2-4\times3\times48=0\\&\text {Il n'y a qu'une seule solution réelle}\\x_0&=\frac {-b}{2a}=4\\S&=\{4\}\\&\text{Tableau de signe : |+|-|} \end {align}
+$$
+## 20)
+$g(x)=\boxed{\frac{1}{4}x^2-6x+32}$
+
+## 13)
+$x^4-6x^2+8=0$ 
+$y^2-6y+8=0$ 
+$\triangle=4$
+$y_1=\frac {6-2}{2}=2$
+$y_2=\frac {6+2}{2}=4$ 
+$S=\{-2;\sqrt{2  \}

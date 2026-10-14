@@ -124,4 +124,5 @@ El acoso escolar es un problema muy grave que destruye la vida de las víctimas 
 
 - Tomarse en serio
 - Hace dano a la victima
--   
+
+

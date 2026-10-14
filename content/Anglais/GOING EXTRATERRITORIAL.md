@@ -9,13 +9,13 @@ Moon
 Star
 Neil Armstrong
 Yuri Gagarin
-NASA
+NASA 
 Apollo 1
 Andromeda
-Cold War
+Cold War 
 Galaxy
 Space X
-Spacecraft
+Spacecraft       
 Spoutnik 
 Satelite
 Super Nova
@@ -76,4 +76,11 @@ we need use space resources to save the earth
 
 Bezos talks about space tourism explaining how it would happen an eleven minute journey to right above the Earth's atmosphere (Karman Line). For him, going up into space and seeing Earth from that perspective would make you realize its fragility ant that is has to be protected. We can assume that he might want to use the money brought in by space tourism to fund his space project
 
-Bezos claims that this project is motivatedd by a desire to save the planet and preserve it for future generations. However, this would also make him an even richer man
+Bezos claims that this project is motivatedd by a desire to save the planet and preserve it for future generations. However, this would also make him an even richer man 
+1) The planet is thought to be in danger
+2) Mars's colonization is sa id to be a utopia 
+3) The life on mars is now known to be impossible
+4) Musk is known to have created many companies
+5) He is expected to send rockets to Mars very soon
+6) Musk is said to be too optimistic
+7) Mars' athmosphere is thought to have been thicker beforenn

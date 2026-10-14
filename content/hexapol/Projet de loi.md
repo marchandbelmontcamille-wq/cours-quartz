@@ -15,20 +15,7 @@ version: compromis SFIO-UDR
 
 ---
 
-*Enregistrée à la Présidence de l'Assemblée nationale le 16 octobre 1969*
-
-**N° 423**
-
----
-
-**ASSEMBLÉE NATIONALE**
-
-**CONSTITUTION DU 4 OCTOBRE 1958**
-**QUATRIÈME LÉGISLATURE**
-
-Présentée par MM. Guy MOLLET, Gaston DEFFERRE, Pierre MAUROY et les membres du groupe socialiste,
-
-*(Renvoyée à la Commission des affaires culturelles, familiales et sociales, à défaut de constitution d'une commission spéciale dans les délais prévus par les articles 30 et 31 du Règlement.)*
+Présentée par les députés du groupe SFIO
 
 ---
 
@@ -56,7 +43,7 @@ Le présent texte se limite à ces trois objets, sans prétendre modifier les é
 
 **Article 1er**
 
-Au premier alinéa de l'article L. 140-2 du Code du travail, les mots « à travail égal » sont remplacés par les mots « à travail de valeur égale ».
+Le principe d'égalité de rémunération entre hommes et femmes, tel qu'il résulte de la loi n° 50-205 du 11 février 1950, s'applique à tout travail de valeur égale et non au seul travail strictement identique.
 
 Est réputé de valeur égale tout travail exigeant un ensemble comparable de connaissances professionnelles consacrées par un titre, un diplôme ou une pratique professionnelle, de capacités découlant de l'expérience acquise, de responsabilités et de charge physique ou nerveuse.
 
@@ -66,21 +53,17 @@ Les clauses des conventions et accords collectifs de travail fixant des rémuné
 
 **Article 3**
 
-Les inspecteurs du travail sont habilités à constater par procès-verbal les infractions aux dispositions du présent titre. Les procès-verbaux font foi jusqu'à preuve du contraire.
+Les inspecteurs du travail sont habilités à constater par procès-verbal les infractions aux dispositions de la présente loi. Les procès-verbaux font foi jusqu'à preuve du contraire.
 
 Tout employeur contrevenant aux dispositions de l'article 1er est passible d'une amende de cinq mille à cinquante mille francs par salarié lésé.
 
 **Article 4**
 
-L'article L. 141-4 du Code du travail est complété par un alinéa ainsi rédigé :
-
-« Le salaire minimum interprofessionnel garanti est revalorisé au 1er janvier de chaque année par décret, en fonction de l'évolution du pouvoir d'achat du salaire horaire moyen des ouvriers constatée au cours de l'année écoulée par l'Institut national de la statistique et des études économiques. Cette revalorisation ne peut être inférieure à la hausse de l'indice des prix à la consommation sur la même période. »
+Le salaire minimum interprofessionnel garanti est revalorisé au 1er janvier de chaque année par décret, en fonction de l'évolution du pouvoir d'achat du salaire horaire moyen des ouvriers constatée au cours de l'année écoulée par l'Institut national de la statistique et des études économiques. Cette revalorisation ne peut être inférieure à la hausse de l'indice des prix à la consommation sur la même période.
 
 **Article 5**
 
-Au plus tard le 1er janvier 1970, le salaire minimum interprofessionnel garanti est porté à un montant garantissant à un salarié travaillant à temps plein un revenu mensuel net au moins égal à soixante pour cent du salaire mensuel net médian constaté par l'INSEE au titre de l'année précédente.
-
-Un décret en Conseil d'État fixe les modalités de calcul de ce seuil et les conditions de sa révision annuelle.
+Au plus tard le 1er janvier 1970, le salaire minimum interprofessionnel garanti est porté à un montant garantissant à un salarié travaillant à temps plein un revenu mensuel net représentant une part équitable de la croissance nationale. Un décret en Conseil d'État fixe ce montant et les conditions de sa révision annuelle.
 
 **Article 6**
 
@@ -92,20 +75,4 @@ Les décrets d'application de la loi n° 67-1176 du 28 décembre 1967 relative �
 
 Un décret en Conseil d'État fixe en tant que de besoin les modalités d'application des articles 1er à 3 de la présente loi.
 
-**Article 8**
 
-La présente loi est applicable en métropole, dans les départements d'outre-mer et dans les territoires d'outre-mer.
-
-**Article 9**
-
-La présente loi sera exécutée comme loi de l'État.
-
----
-
-*Fait à Paris, le 16 octobre 1969*
-
-*Par les membres du groupe socialiste de l'Assemblée nationale*
-
----
-
-> **Note de contexte (hors texte) :** Version issue des négociations avec l'UDR consécutives à la censure du premier gouvernement Debré. Par rapport au N° 412, les dispositions sur le congé maternité, la capacité civile de la femme mariée et la protection contre le licenciement ont été retirées à la demande de l'UDR. L'article sur les décrets Neuwirth a été maintenu comme condition non négociable de la SFIO — l'UDR ne pouvant s'y opposer sans se contredire elle-même, ayant voté la loi Neuwirth en 1967. En contrepartie, la SFIO s'engage à s'abstenir sur l'investiture du nouveau gouvernement pendant une durée de six mois.

@@ -6,9 +6,9 @@ Contexte
   Chemins
 
   - Source (scans bruts):
-    C:\Users\camillemarchandbelmo\quartz-cours\content\scan
+    C:\Users\camillemarchandbelmo\cours-quartz\content\scan
   - Destination (images classees): C:\Users\camillema
-    rchandbelmo\quartz-cours\content\Images
+    rchandbelmo\cours-quartz\content\images
 
   Etapes
 
@@ -19,8 +19,8 @@ Contexte
      pour voir ce qui est deja classe
   3. Regarde toutes les images dans le dossier scan
      pour voir les nouveaux fichiers a classifier
-  4. Génère un index temporaire sous la forme d'un fichier .md dans /scan en indiquant la matière de chauqe image et un id temporaire
-  5. Après approbation, deplace chaque fichier de scan vers Images en le renommant avec le bon code (ex: FR-1.jpg)
+  4. Utilise Tesseract pour voir le contenu des images
+  5. deplace chaque fichier de scan vers Images en le renommant avec le bon code (ex: FR-1.jpg)
   6. Regenere les index de matière en scannant tout le
      dossier Images
 

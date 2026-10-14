@@ -1,0 +1,1 @@
+[https://www.pearltrees.com/s/file/preview/391439134/Tableau%20des%20caract%C3%A9ristiques%20des%20roches%20repr%C3%A9sentyatives%20de%20la%20cr%C3%BBte%20oc%C3%A9aniqu%20et%20continentale.pdf?pearlId=828586909)]

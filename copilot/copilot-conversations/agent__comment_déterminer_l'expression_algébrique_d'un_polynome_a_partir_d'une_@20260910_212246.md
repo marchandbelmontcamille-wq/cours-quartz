@@ -69,7 +69,7 @@ Ensuite tu développes pour revenir à la forme $ax^2+bx+c$ si l'énoncé la dem
 
 Le piège principal : **ne jamais lire des coordonnées approximatives**. Si un point tombe entre deux carreaux, cherche-en un autre — une erreur de lecture de $0{,}5$ fausse tout le système.
 
-Si tu veux, je peux ajouter cette méthode dans ton chapitre [[Chapitre 1 - Polynomes du 2nd degré]], ou compléter les questions laissées en suspens dans [[Act1]] (Partie B question 5, Partie D) si tu me donnes les points visibles sur les graphiques.
+Si tu veux, je peux ajouter cette méthode dans ton chapitre [[QA]], ou compléter les questions laissées en suspens dans [[Act1]] (Partie B question 5, Partie D) si tu me donnes les points visibles sur les graphiques.
 [Timestamp: 2026/09/10 21:22:46]
 
 **user**: j'ai A(0;1)
