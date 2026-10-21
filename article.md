@@ -1,101 +1,59 @@
-# 📰 L’HUMANITÉ
+# À qui M. Foyer en veut-il, au juste ?
 
-**Quotidien de la gauche ouvrière**
+_Petite enquête sur un reproche à géométrie variable et sur une mémoire parlementaire étonnamment courte_
 
----
+> « Le courage, c’est de chercher la vérité et de la dire. » - Jean Jaurès
 
-## ÉDITORIAL
+M. Foyer est en colère. M. Foyer veut qu’on le sache. M. Foyer, hélas, ne nous dit pas tout à fait contre qui.
 
-# Monsieur le ministre, ne faudrait-il pas dissoudre le PNL ?
+Reprenons calmement les faits. Ce matin, le ministère de l’Intérieur annonce l’ouverture d’une procédure de dissolution contre le service d’ordre du PNL. Le communiqué, pour qui sait lire, précise sans détour que la décision a été prise « avec l’accord du Président de la République ». Ce détail, qu’un juriste de la trempe de M. Foyer n’a pas pu manquer, mérite qu’on s’y arrête.
 
-_Par notre rédaction parlementaire_
+Car la loi de 1936, que M. Foyer connaît aussi bien que nous (probablement mieux), est claire sur un point : la dissolution est prononcée « par décret rendu par le Président de la République en conseil des ministres ». Pas par le ministre de l’Intérieur. Par le Président. Celui qui, en l’occurrence, se trouve être le chef de l’État issu de l’UDR, c’est-à-dire du propre parti de M. Foyer.
 
----
+C’est ici que notre perplexité commence.
 
-Commençons par les mots les plus lourds. Ils ont été prononcés hier soir en conférence de presse par la Première ministre, Madame Anne Kahn, FNRI :
+M. Foyer, dans son communiqué, parle de « faillite morale vis-à-vis de l’État de droit ». Les mots sont lourds. Ils sont même, à vrai dire, un peu intimidants. On s’attend, en les lisant, à voir surgir un responsable à la hauteur : un homme d’État dévoyé, un dirigeant hors de contrôle, un chef sans scrupules. Et puis l’on tourne la page, et l’on découvre que le reproche s’adresse… au ministre de l’Intérieur.
 
-> _« Cela dérange pour la sécurité nationale que certains partis comme le PNL soit proches des idées qui ont détruit l’Europe il y a quelques années ? »_
+Un socialiste, certes. Un rouge, un partageux, un suppôt de Satan, un homme qui, dans la mythologie de certains de nos confrères de la droite et de l’extrême droite, se nourrit probablement d’enfants capitalistes au petit-déjeuner, danse autour d’un feu de joie quand une entreprise fait faillite, et conserve dans son bureau une photo dédicacée de Lénine. Nous le concédons bien volontiers. Mais, en droit, un simple instructeur du dossier, dont la démarche a par ailleurs été validée, nous nous permettons de le rappeler, par un Président de la République qui n’a, lui, jamais été soupçonné d’adhérer à l’Internationale. Un homme qui, sans l’accord présidentiel mentionné dans le communiqué, n’aurait rien pu mener à son terme.
 
-Madame Kahn n’est pas des nôtres. Elle dirige la droite libérale. Ce n’est donc pas la gauche ouvrière qui range le PNL dans la famille des idées « qui ont détruit l’Europe » : c’est la cheffe du gouvernement libéral français. L’adjectif qu’elle n’a pas prononcé, nos lecteurs l’auront reconnu sans peine. Il figure dans les manuels d’Histoire. Il a envoyé, dans ce pays, des trains vers l’Est.
+Il y a là, convenons-en, une asymétrie troublante.
 
-### Trois amendements, trois infamies
+## Une mémoire étrangement sélective
 
-Hier, le PNL, par la voix de Maurice Durand, a déposé trois amendements de suppression à la proposition de loi Foyer sur le mariage. Suppression de l’âge nuptial à dix-huit ans. Suppression de l’interdiction du mariage des mineurs. Suppression des articles de nettoyage du Code civil.
+M. Foyer, en tant que député UDR, siège au sein d’un groupe parlementaire dont nous conservons, à L’Humanité, un souvenir précis. Lors du vote de confiance accordé au gouvernement Kahn, ce même gouvernement dont M. Foyer dénonce aujourd’hui la « faillite morale », le groupe UDR s’est abstenu. Il a laissé passer. Il a dit, par ce vote blanc, à peu de choses près : qu’ils gouvernent, nous verrons bien.
 
-Autrement dit, le PNL a demandé à la représentation nationale de voter, en 1969, pour le maintien du droit de marier des fillettes de quinze ans. Volontairement, par écrit, signé, déposé au bureau de l’Assemblée.
+Eh bien, nous voyons.
 
-### Le féminisme selon le PNL
+Nous voyons un gouvernement qui gouverne. Nous voyons un ministre socialiste qui applique la loi de 1936 contre un parti d’extrême droite. Nous voyons un Président qui a donné son accord à la procédure. Et nous voyons un député UDR qui s’étonne, avec un étonnement presque convaincant, que ce gouvernement, pour lequel il n’a pas voté contre, fasse exactement ce qu’un gouvernement de coalition républicaine fait : gouverner.
 
-À la tribune, le député Jérôme Martin a défendu ces amendements au nom des droits des femmes. Nos lecteurs ont bien lu. L’argument : maintenir le mariage des mineures pour leur éviter de devenir des « filles-mères ». Plutôt qu’une adolescente enceinte, un mariage d’adolescente enceinte. On aurait pu songer à l’éducation sexuelle, à la contraception, au soutien aux mères célibataires, toutes choses auxquelles le PNL s’oppose avec constance.
+On ne laisse pas passer un gouvernement par abstention pour s’indigner, quelques semaines plus tard, de ce qu’il décide. L’abstention engage, elle aussi. Elle n’est pas un blanc-seing moral ; mais elle est, à tout le moins, un consentement à ce que la mécanique institutionnelle suive son cours. Celui qui ne vote pas contre a renoncé à empêcher.
 
-Monsieur Martin a appelé la droite au secours au nom des « liens sacrés de la famille ». L’appel est tombé dans le silence : la droite gaulliste venait, quelques instants plus tôt, d’applaudir l’intervention de Jacques Baux. Monsieur Foyer et plusieurs députés UDR, dont Albert Mattei, avaient déjà choisi leur camp.
+M. Foyer, qui connaît le droit parlementaire mieux que quiconque, le sait. Mais il feint, ce matin, de l’avoir oublié.
 
-### De l’insulte à la sédition
+## Le reproche sans destinataire
 
-Puis vint le déferlement : « communiste », « soumise rouge », « honte ». Monsieur Durand s’en prit à la présidence, tenue par Charles Pasqua, UDR, qu’il traita de « dictateur », de « suppôt de Staline », et il fut question des « bolcheviks ». Charles Pasqua, stalinien : la nouvelle a dû surprendre à Moscou autant qu’à Neuilly.
+Revenons au communiqué. M. Foyer, qui fut Garde des Sceaux, sait parfaitement qu’un ministre n’engage pas une procédure de cette portée tout seul, par un matin d’inspiration. Il sait que l’accord présidentiel, mentionné dans le communiqué, n’est pas une clause de style ; qu’il engage pleinement celui qui l’a donné. Il sait, enfin, que la signature finale sera celle du Président, pas celle d’un ministre socialiste.
 
-Monsieur Pasqua trancha : _« Ce n’est pas un cirque ici, comportez-vous comme un Homme. »_ Durand fut sanctionné. Les huissiers vinrent le chercher.
+Il le sait. Et pourtant, il ne nomme pas le Président.
 
-Il a refusé de sortir. Il a physiquement résisté. Et les autres députés PNL se sont levés, non pour le raisonner, mais pour se placer physiquement entre lui et les huissiers. Bras écartés, corps en travers, faisant barrage à des agents de la République.
+Il faut imaginer la scène. Un procureur, à la barre, prononce un réquisitoire vibrant contre une « faillite morale », dénonce un abus de pouvoir, exige des comptes. Puis il se tourne vers l’auditoire, désigne un homme du doigt, et s’écrie : voilà le coupable ! L’auditoire se penche. Et découvre, perplexe, que l’acte incriminé porte deux signatures, et que l’orateur, par un hasard malheureux, n’en voit qu’une.
 
-Ce n’est plus de l’incivilité. C’est une obstruction collective, immédiate et coordonnée à l’exécution d’une sanction régulière de l’Assemblée, consignée au procès-verbal. En toute autre circonstance, pour tout autre citoyen, de tels faits conduiraient devant un tribunal correctionnel.
+C’est à peu de choses près la situation dans laquelle M. Foyer s’est mis ce matin.
 
-### Un barème pour l’Histoire
+Serait-ce par oubli ? Par pudeur ? Par distraction ? Nous ne voulons pas trancher. Mais nous nous permettons une remarque : l’oubli est tenace. Dans son communiqué, M. Foyer évoque « le ministre », « la décision », « la chaîne pénale », « l’État de droit ». Il ne manque, dans toute cette liste, qu’un seul nom. Le plus grand. Celui qui se trouve également être celui du chef de la famille politique de M. Foyer.
 
-À quelle famille le PNL se rattache-t-il réellement ? Non pas celle qu’il revendique, mais celle que ses méthodes désignent.
+Nous souhaitons, pour notre part, aider M. Foyer à surmonter cette lacune.
 
-Les Croix-de-Feu et la Cagoule : service d’ordre encadré, violence politique. Le PNL en reproduit, aujourd’hui, les méthodes : un service d’ordre violent, et plusieurs manifestants blessés grièvement au dernier meeting.
+Si la procédure est bien une « faillite morale », alors elle est aussi celle du chef de l’État qui, en y donnant son accord, l’a rendue possible. C’est, en toute rigueur juridique (celle que M. Foyer invoque à chaque ligne), la seule conclusion possible. Si M. Foyer ne la tire pas, c’est qu’il considère que le Président n’a pas failli en donnant son accord : auquel cas sa charge contre le ministre, dont la démarche a été présidentiellement validée, perd soudain beaucoup de son volume. Ou alors c’est qu’il la tire mais préfère ne pas la dire, ce qui pose, nous en convenons, un problème d’un genre un peu différent.
 
-Les partis de la Collaboration : vocabulaire ethnique, « métèques », amalgame systématique avec le bolchevisme. Le PNL en reproduit, aujourd’hui, le lexique : le mot « métèque » retrouvé dans ses meetings, et l’habitude de traiter de « bolchevik » tout ce qui lui résiste, du communiste à Charles Pasqua.
+Dans les deux cas, nous aimerions comprendre.
 
-L’OAS : refus des décisions légales, violence contre les institutions. Le PNL en reproduit, aujourd’hui, le geste : le refus physique d’exécuter une sanction de l’Assemblée.
+## En somme
 
-Nous ne disons pas que le PNL est l’un de ces mouvements. Nous disons que, pour chacun de leurs traits, il en a aujourd’hui un équivalent documenté.
+Un ministre socialiste a proposé d’engager, contre un parti d’extrême droite, une procédure fondée sur la loi arrachée par le Front populaire en 1936. Un Président issu de l’UDR y a donné son accord. Un député UDR, M. Foyer, s’indigne, mais sans oser nommer le Président.
 
-Nos colonnes ont également recueilli le témoignage d’un ancien membre de ce service d’ordre, contraint à l’anonymat par la crainte que ses anciens camarades lui inspirent. Son témoignage a été consigné dans nos éditions précédentes.
+Que M. Foyer continue, s’il le souhaite, de lancer ses foudres contre le seul ministre socialiste. Nous le laisserons faire. Pendant ce temps, un décret se prépare. Et c’est un Président issu de l’UDR qui le signera.
 
-### Ce qu’ils répondront
+Nous écrivions, en juillet dernier, que la question était simple : la République saurait-elle se défendre ? Elle le peut. Elle le fait. Elle le fera, avec ou sans les silences choisis de ceux qui, par calcul ou par pudeur, n’osent pas en nommer les artisans.
 
-Le PNL dira avoir défendu la « liberté familiale ». La liberté familiale, dans un État de droit, s’exerce entre adultes consentants.
-
-Le PNL dira que la loi de 1936 ne vise pas un parti parlementaire. Le texte vise « toutes les associations ou groupements de fait » sans distinction. L’élection ne confère aucune immunité.
-
-Le PNL dira avoir « défendu un collègue ». Non : il s’est opposé par la force à une décision régulière de l’autorité parlementaire.
-
-Le PNL dira que nous menons une « chasse idéologique ». C’est la Première ministre libérale, pas nous, qui a parlé des « idées qui ont détruit l’Europe ». C’est un président UDR, pas nous, qui a sanctionné Durand. Et c’est un Garde des Sceaux gaulliste, Monsieur Jean Foyer, qui avait saisi la Justice dès le 10 juillet 1969 des violences du service d’ordre du PNL.
-
-Le PNL invoquera ses électeurs. Ces électeurs méritent mieux que des députés qui veulent marier des fillettes de quinze ans et dont le service d’ordre blesse grièvement des manifestants. La dissolution d’un parti n’est pas celle de ses électeurs : ceux-ci demeurent libres de se tourner vers une formation qui respecte, elle, les règles de la République.
-
-### Monsieur le ministre, engagez vous-même la procédure
-
-Monsieur Moreau, nous nous adressons à vous directement.
-
-Vous êtes socialiste, ministre de l’Intérieur, membre d’un gouvernement dont la cheffe vient d’affirmer publiquement que le PNL est proche « des idées qui ont détruit l’Europe il y a quelques années ». Avant elle, votre prédécesseur Monsieur Jean Foyer, Garde des Sceaux et membre de l’UDR, avait saisi la Justice dès le 10 juillet 1969 des violences du service d’ordre du PNL. Nous souscrivons à sa demande que l’instruction travaille à l’abri des pressions, et nous n’entendons nullement la commenter.
-
-Mais la procédure judiciaire et la procédure administrative de dissolution sont deux voies distinctes. La première suit son cours. La seconde, prévue par la loi du 10 janvier 1936, reste entièrement à engager, et c’est à vous, et à vous seul, qu’il revient de l’ouvrir. Le décret final sera signé en Conseil des ministres par le Président de la République, mais la main qui ouvre le dossier, qui conduit l’instruction administrative, qui propose la dissolution, c’est la vôtre.
-
-Nous vous demandons donc, Monsieur le ministre, d’engager sans attendre la procédure de dissolution du Parti National Libéral : ouverture d’une enquête administrative sur son service d’ordre, audition de ses cadres et de ses financeurs, constitution du dossier, puis notification des griefs au parti et saisine du Conseil des ministres.
-
-Nous vous demandons, dans un délai qui ne saurait excéder un mois, de dire publiquement au pays où en est cette procédure.
-
-Ce n’est pas la gauche ouvrière qui vous le demande, Monsieur Moreau : c’est l’état de droit, c’est la mémoire de ce pays, et c’est désormais la cohérence même du gouvernement auquel vous appartenez. Votre Première ministre a parlé. Avant elle, un Garde des Sceaux gaulliste avait agi. À vous, maintenant, de signer.
-
-### Pour finir
-
-Le PNL est un parti qui veut maintenir le mariage des mineures au nom du féminisme ; qui insulte les homosexuels depuis les bancs de la Nation ; qui outrage la présidence de l’Assemblée ; qui oppose à la République le barrage de ses propres corps ; dont le service d’ordre a blessé grièvement des manifestants pacifiques. Et c’est, selon les mots de la Première ministre libérale, un parti proche des idées qui ont détruit l’Europe.
-
-Les factions ont toujours fini par trouver leur juge, pourvu que la République ait eu, en temps utile, le courage de leur en désigner un. Les autres ont fini par désigner elles-mêmes leurs juges. La suite est inscrite, en lettres rouges, dans les manuels d’Histoire.
-
-Un parti qui ne respecte plus rien peut-il encore prétendre à la protection de ce qu’il méprise ?
-
-Engagez la procédure, Monsieur le ministre. Dissolvez le PNL. Dans les formes, selon le droit, avec les garanties qu’exige la République, mais engagez-la.
-
-Vous en avez le pouvoir. Vous en avez les moyens. Vous en avez, aujourd’hui, les motifs.
-
-Il ne vous reste qu’à décider.
-
-Nous attendons.
-
----
-
-_La rédaction parlementaire de L’Humanité_
+Nous, nous saurons les nommer. Et nous les nommerons.

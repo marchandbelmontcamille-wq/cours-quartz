@@ -61,8 +61,23 @@ Desunion - union
     
 2. ¿Qué responde la primera mujer entrevistada? Dice que el 12 de octubre celebra el descubrimiento de América y que la llegada de los españoles fue una aportación cultural.
     
-3. ¿Qué responde la segunda mujer? Dice que hay que mezclar culturas y que no hay que guardar odios ni rencores, sino luchar por la unión.
+3. ¿Qué responde la segunda mujer? Dice que hay que mezclar culturas y que no hay que  guardar odios ni rencores, sino luchar por la unión.
     
 4. ¿Qué responde el hombre peruano? "Es el dia de la union y no de la division". Hay que olvidarse de los rancoro
     
 5. ¿Con qué período se puede comparar la presencia española para la última mujer entrevistada? Compara la presencia española en América con lo que Roma hizo con España : darle una identidad, una cultura y una lengua.
+
+6. El 12 de octubre de 2018, España celebró su fiesta nacional con un gran desfile militar en Madrid.
+7. El rey Felipe VI, vestido de capitán general, presidió la ceremonia.
+8. Era el primer desfile de Pedro Sánchez como presidente del Gobierno y una parte del público le abucheó e insultó.
+9. El público aplaudió sobre todo a los militares, a la Guardia Civil, a la Policía y a la Legión, cuya cabra fue muy admirada.
+10. Unos 4.000 soldados de los tres ejércitos y 152 vehículos participaron en el desfile.
+
+
+11. Todos los años hay un desfile militar para la fiesta nacional de España.
+12. Esta fiesta recuerda el descubrimiento de América por Cristóbal Colón, pero también crea polémica.
+13. Algunas personas quieren celebrar esta fiesta y otras no están de acuerdo.
+14. Muchos latinoamericanos piensan que había muchas desigualdades en la época colonial.
+15. Los territorios de la Corona española querían más autonomía y más libertad.
+16. La infanta Leonor, la heredera al trono, fue al desfile con su padre. Llevaba un uniforme del Ejército del Aire.
+17. 

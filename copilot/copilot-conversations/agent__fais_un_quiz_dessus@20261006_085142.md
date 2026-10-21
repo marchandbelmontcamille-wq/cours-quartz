@@ -12,7 +12,7 @@ tags:
 **user**: fais un quiz dessus
 [Timestamp: 2026/10/06 08:51:42]
 
-**ai**: Je vais lire la note pour créer un quiz adapté.Voici un quiz sur [[QA]] :
+**ai**: Je vais lire la note pour créer un quiz adapté.Voici un quiz sur [[Chapitre 1 - Polynômes du second degré]] :
 
 ---
 
@@ -116,7 +116,7 @@ Donc $\alpha = 2$ et $\beta = -3$.
 
 **user**: Je vais lire la note pour créer un quiz adapté.
 
-Voici un quiz sur [[QA]] :
+Voici un quiz sur [[Chapitre 1 - Polynômes du second degré]] :
 
 ---
 

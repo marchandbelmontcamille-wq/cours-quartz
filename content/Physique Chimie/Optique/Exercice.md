@@ -33,3 +33,4 @@ $\overline{OA'}=-22,5$
 $\overline{A'B'}=3,75$
 $\frac {1}{OA'}=\frac{1}{f'}+\frac{1}{OA}=\frac{1}{15}+\frac{1}{-9}=-\frac{2}{45}$
 $\overline{OA'}=\frac {1}{-\frac{2}{45}}=22,5$ 
+$\overline{A'B'}=\overline{AB}\times\frac {\overline{OA'}}{\overline{OA}}=3,75$

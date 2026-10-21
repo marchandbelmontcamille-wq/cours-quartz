@@ -43,6 +43,31 @@
 ### 2) Sens de variation d'une suite
 >[!NOTE] Définition
 >Etudier le sens de variation d'une suite c'est préciser si elle est croissante, décroissante ou constante
->- La suite $(u_n)$ est dite strictement croissante à partir du rang p si pour tout entier naturel $n\ge p => u_n>u_p$ 
->- La suite $(u_n)$ est dite strictement décroissante à partir du rang 
+>- La suite $(u_n)$ est dite croissante à partir du rang p si pour tout entier naturel $n$ : $n\ge p => u_n>u_p$ 
+>- La suite $(u_n)$ est dite décroissante à partir du rang p si pour tout entier naturel $n$ : $n\le p => u_n+1<u_n$
+>- La suite $(u_n)$ est dite monotone si elle est croissante (ou décroissante) sur tout son ensemble de définition. Elle ne change pas de variation
+
+>[!NOTE] Propriété
+>- $(u_n)$ est strictement croissante à partir du rang p $<=>$ Pour tout entier naturel $n$, $n\ge p$ : $u{n+1}-u_n>0$ 
+>- $(u_n)$ est strictement décroissante à partir du rang p $<=>$ Pour tout entier naturel $n$, $n\ge p$ : $u_{n+1}-u_n<0$
+>- $(u_n)$ est constante à partir du rang p $<=>$ Pour tout entier naturel $n$, $n\ge p$ : $u_{n-1}-u_n=0$
+
+>[!TIP] Méthode
+>Pour étudier la variation d'une suite $(U_n)$
+>1) On calcule : $\forall n\in\mathbb{N}$ : $u_{n+1}-u_n$
+>2) On cherche son signe : Strict. positif -> Strict. croissant / strict. négatif -> strict. décroissant
+
+>[!NOTE] Propriété
+>- $(u_n)$ est strictement croissante à partir du rang p $<=>$ Pour tout entier naturel $n$, $n\ge p$ : $\frac {u_{n+1}}{u_n}>1$
+>- $(u_n)$ est strictement croissante à partir du rang p $<=>$ Pour tout entier naturel $n$, $n\ge p$ : $\frac {u_{n+1}}{u_n}<1$
+
+>[!TIP]
+>Pour étudier la variation d'une suite $(u_n)$ strictement positive :
+>1) On calcule : $\forall n \in \mathbb{N}$ : $\frac {u_{n+1}} {u_n}$
+>2) On compare le résultat à 1 : $\frac {u_{n+1}} {u_n}>1$<=> strict. croissant / $\frac {u_{n+1}} {u_n}<1$<=> strict. décroissante
+### 3) Notion intuitive de limite
+>[!INFO] Définition
+>Soit $(u_n)$ une suite.
+>La suite $(u_n)$ a pour limite le nombre $l$ quand n tend $+\infty$, si les termes $u_n$ deviennent tous aussi proches de $l$ que l'on veut, en prenant $n$ suffisamentgrand.
+>On dit que $u_n$ converge vers $l$ et on note $\lim_{n \to +\infty}=l$
 

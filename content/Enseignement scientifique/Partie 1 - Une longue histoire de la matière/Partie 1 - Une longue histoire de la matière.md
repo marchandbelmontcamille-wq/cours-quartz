@@ -1,4 +1,4 @@
- #### _Objectif :_
+  #### _Objectif :_
 Comprendre que la diversité de la matière dans l'Univers se décrit à partir d'un petit nombre de particules élémentaires, dont l'organisation conduit à la formation d'unités de plus en plus complexes depuis le Big Bang jusqu'au développement de la vie
 
 ## Introduction :
@@ -23,10 +23,10 @@ Danger pour les sols
 2) C'est la nucléosynthèse stellaire qui produit de l'énergie et de nouvelles molécules avec l'hydrogène avec la fusion. 2 noyaux s'unissent pour former 1 nouveau noyau
 3) Non, les espèces chimiques sont en différentes quantités dans le corps humain et le blé
 ![[ES-6.pdf]]
-4) Les éléments les plus abondants sont l'hydrogène, l'hélium, l'oxygène et le carbone. Après le Big Bang, des étoiles se sont formées et ont commencé le processus de nucléosynthèse formant ainsi des molécules. Puis elles ont explosées en super nova et les ont dispersés partout dans l'univers
+4) Les éléments les plus abondants sont l'hydrogène, l'hélium, l'oxygène et le carbone. Après le Big Bang, des étoiles se sont formées et ont commencé le processus de nucléosynthèse formant ainsi des molécules. Puis elles ont explosé    es en super nova et les ont dispersés partout dans l'univers
 
 Les noyaux des atomes de la centaine d'éléments chimiques stables résultent de réactions nucléaires qui se produisent au sein des étoiles à partir de l'hydrogène initial. La matière connue de l'univers est formée principalement d'hydrogène et d'hélium,
-alors que la Terre est constituée surtout d'oxygène, de fer, de silicium, de magnésium et les êtres vivants de carbone, hydrogène, oxygène et azote
+alors que la Terre est constituée surtout d'oxygène, de fer, de silicium, de magnésium et les êtres vivants de      carbone, hydrogène, oxygène et azote
 
 ## II- La radioactivité
 ![[ES-7.png]]
@@ -36,7 +36,7 @@ alors que la Terre est constituée surtout d'oxygène, de fer, de silicium, de m
 4) Le noyau de plomb possède 214 nucléons
 5) La radioactivité consiste en l'émission de rayons radioactifs. Des noyaux instables se transforment de manière spontanée et irréversible, en émettant des rayonnements; pour se scinder en plusieurs noyaux.
 6) Désintégration d'un noyau instable accompagnée par l'émission de rayonnements. Elle se fait de manière irréversible et spontanée. Elle s'accompagne de plusieurs rayons (alpha, beta et gamma).
-
+   
 Certains noyaux sont instables et se désintègrent : C'est la radioactivité.
 Cette désintégration produit une énergie qui est exploitable. L'instant de désintégration d'un noyau radioactif est aléatoire
 ## III- La datation par la radioactivité

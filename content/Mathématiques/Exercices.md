@@ -140,3 +140,7 @@ $\triangle=4$
 $y_1=\frac {6-2}{2}=2$
 $y_2=\frac {6+2}{2}=4$ 
 $S=\{-2;\sqrt{2  \}
+
+
+
+## Exo suites

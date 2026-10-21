@@ -49,3 +49,10 @@ La structure interne de la Terre est révélée par l'étude de la propagation d
 2°
 Le graphique du haut correspond au montage avec le thermoplongeur en haut et celui du bas avec le thermoplongeur en bas
 3°
+
+
+
+![([19a1d2258d2d83f1ed1fbbbbac11191d.bin (1280×789)](https://cdn-photo-origin.pearltrees.com/19/a1/d2/19a1d2258d2d83f1ed1fbbbbac11191d.bin?response-content-type=viewImage&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20261014T123436Z&X-Amz-SignedHeaders=host&X-Amz-Expires=30&X-Amz-Credential=AKIA4SMJHWBJF2UEZM6E%2F20261014%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Signature=ee4139a972f016f54a303067e7c634f1413529c773431b4a7662dd76bd354544)
+
+
+La propagation des ondes sismiques révèle des anomalies de vitesse par rapport au modèle PREM interprétées comme des hétérogénéités thermiques dans le manteau. Ces variations traduisent la présence de zones froides descendantes et de zone chaudes ascendantes qui constituent un témoin de la convection mantellique.
