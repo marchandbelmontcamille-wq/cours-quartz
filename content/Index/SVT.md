@@ -1,4 +1,4 @@
-## SVT
+ ## SVT
 
 - **SVT-1**
   ![[SVT-1.png]]
@@ -36,3 +36,17 @@
   ![[SVT-17.png]]
 - **SVT-18**
   ![[SVT-18.png]]
+- **SVT-19**
+  ![[SVT-19.png]]
+- **SVT-20**
+  ![[SVT-20.png]]
+- **SVT-21**
+  ![[SVT-21.png]]
+- **SVT-22**
+  ![[SVT-22.png]]
+- **SVT-23**
+  ![[SVT-23.png]]
+- **SVT-25**
+  ![[SVT-25.png]]
+- **SVT-26**
+  ![[SVT-26.png]]

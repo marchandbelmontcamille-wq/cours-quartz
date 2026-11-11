@@ -1,4 +1,4 @@
-![[MA-5.png]]
+ ![[MA-5.png]]
 ## 1)
 ### 1)
 $$
@@ -144,3 +144,92 @@ $S=\{-2;\sqrt{2  \}
 
 
 ## Exo suites
+![[MA-13.png]]
+## 1°
+$u_0=-1$
+$u_1=1$
+$u_2=7$
+$u_{10}=199$
+## 3°
+$w_1=-1$
+$w_2=-7$
+$w_3=-25$
+Il faut faire tous les termes intermédiaires
+
+## 5°
+
+  $a_n = 3n^2$ - Explicite
+
+  $a_0 = 0$, $a_1 = 3$, $a_2 = 12$, $a_5 = 75$
+
+  $b_n = n - 1$ - Explicite
+
+  $b_0 = -1$, $b_1 = 0$, $b_2 = 1$, $b_5 = 4$
+
+  $c_0 = -2$, $c_{n+1} = c_n - 5$ - Récurrence
+
+  $c_0 = -2$, $c_1 = -7$, $c_2 = -12$, $c_5 = -27$
+
+  $d_1 = -2$, $d_{n+1} = \frac{1}{2}d_n$ - Récurrence
+
+  $d_1 = -2$, $d_2 = -1$, $d_3 = -0{,}5$, $d_5 = -0{,}125$
+
+  $e_n = 4$ - Explicite
+
+  $e_0 = 4$, $e_1 = 4$, $e_2 = 4$, $e_5 = 4$
+
+  $f_0 = 1$, $f_{n+1} = 3f_n + 2n^2 - 1$ - Récurrence
+
+  $f_0 = 1$, $f_1 = 2$, $f_2 = 7$, $f_3 = 28$, $f_4 = 101$, $f_5 = 334$
+## 9°
+
+### 9a. $u_n = -n^2 + 7n + 8$
+
+1° $8, 14, 18, 20, 20, 18, 14, 8, 0$ - croissante puis décroissante
+
+2° $u_{n+1} - u_n = -2n + 6$ : positif si $n<3$, négatif si $n>3$
+
+3° Points isolés dans un repère
+
+4° $u_n \to -\infty$
+
+### 9b. $u_n = 0{,}5n^3 - 3n^2 + n - 1$
+
+1° $-1$, $-2{,}5$, $-5$, $-7{,}5$, $-9$, $-8{,}5$, $-5$ - décroissante puis croissante
+
+2° $u_{n+1} - u_n = 1{,}5(n^2 - 3n - 1)$ : négatif si $n \le 3$, positif si $n \ge 4$
+
+3° Points isolés dans un repère
+
+4° $u_n \to +\infty$
+
+### 9c. $u_n = \dfrac{n-1}{n+1}$
+
+1° $-1$, $0$, $\frac{1}{3}$, $\frac{1}{2}$, $\frac{3}{5}$, $\frac{2}{3}$ - croissante
+
+2° $u_{n+1} - u_n = \dfrac{2}{(n+1)(n+2)} > 0$ - croissante
+ 
+3° Points isolés dans un repère 
+
+4° $u_n \to 1$
+![[MA-13.png]]
+## Exercices ND Tangeante
+![[MA-18.png]]
+### 1)
+$\frac {y_N-y_M}{x_N-x_M}$
+### 2)
+4,1
+### 3)
+f donne x au carré et CoefDirSecante calcule le coefficient directeur de la droite
+### 4)
+-0.2 : 3.8
+-0.1 : 3.9
+-0.05 : 3,95
+0.05 : 4.05
+0.1 : 4.1
+0.2 : 4.2
+
+$U_n=5(\frac{2}{3})^n$ 
+$U_{n+1}=5(\frac {2}{3})^{n+1}$ 
+$=\frac{5(\frac{2}{3})^{n+1}}{5(\frac{2}{3})^n}=\frac{\frac{2}{3}^{n+1}}{\frac{2}{3}^n}=\frac{2}{3}$
+## 7.

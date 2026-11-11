@@ -1,0 +1,1 @@
+Une connaissance scientiifque se construit par la formulation d'hypothèses, puis par des expériences, puis par la vérification par d'autres scientifiques. Au stand MED-OOC, ils prélèvent des cellules vivantes, les mettent dans des dispositifs appelés "puces" où ils contrôlent les conditions. Cela permet d'observer le fonctionnement d'un organe ou le développement d'une maladie.  

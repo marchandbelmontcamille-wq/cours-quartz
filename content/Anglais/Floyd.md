@@ -1,0 +1,1 @@
+KKK is a american white supremacist group. KKK was founded in 1866. In 1922, KKK begin use white uniforms with masks. Masks and burning crows are his principal symbols. KKK lost one third of his chapters. They uses extreme violence against afro americans. The group created a pro KKK film : "The birth of a nation". The KKK is rebranding, and welcomes no white christian people.

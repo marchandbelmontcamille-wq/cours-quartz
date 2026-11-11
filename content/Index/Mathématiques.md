@@ -1,4 +1,4 @@
-## Mathématiques
+ ## Mathématiques
 
 - **MA-1**
   ![[MA-1.png]]
@@ -32,3 +32,7 @@
   ![[MA-15.png]]
 - **MA-16**
   ![[MA-16.png]]
+- **MA-17**
+  ![[MA-17.png]]
+- **MA-18**
+  ![[MA-18.png]]

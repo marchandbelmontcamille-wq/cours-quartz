@@ -1,0 +1,1 @@
+Au XXe siècle, beaucoup de poètes venus des anciennes colonies parlent de leur pays d’origine. Ces poètes racontent ce que leur peuple a vécu

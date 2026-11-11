@@ -74,3 +74,8 @@ Après réplication, la mitose répartit les chromatides sœurs entre les deux c
 Lors de la division de méiose, si l'un des chromosomes n'est pas réparti dans la bonne cellule, cette cellule aura un chromosome de plus, alors que sa cellule sœur, aura un chromosome de moins.
 [[Drawing 2026-09-18 17.33.31.excalidraw]]
 Lors de la méiose, un chromosome s'est réparti dans la mauvaise cellule ce qui a causé ce syndrome.
+
+
+
+Une mutation correspond à la modification de la séquence de nucléotides de l'ADN. Il existe différents types de mutations :
+- La substitution

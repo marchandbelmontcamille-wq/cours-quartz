@@ -1,0 +1,16 @@
+- Vers 1 : Je m'en allais -> marche sans but | mes poches crevées -> pauvreté + désinvolture
+- Vers 2 : Paletot : double sens -> idéal de pauvreté / tellement usé qu'il n'en reste plus qu'une idée
+- Vers 3 : J'allais sous le ciel : Pauvre car pas de chapeau + marche sans but | féal : mot venant du moyen age et du mot "féodal". Un féal, un vassal obéit à son seigneur. Dans ce poème, Rimbaud fait serment de fidélité à la Muse, qui est une source d'inspiration pour les poètes
+- Vers 4 : ?
+- Vers 5 : Débordement du quatrain : Rupture avec la poésie traditionnelle
+- Dans ce premier mouvement, Rimbaud nous montre un voyage sans but et sans se soucier de la pauvreté qu'il transforme en liberté
+- Vers 6: Petit poucet : Rimbaud se compare au petit poucet non pas en semant des cailloux mais des rimes. C'est une métaphore de la création poétique
+- Vers 7 : Grande ourse : Rimbaud nous dit par là qu'il n'a pas de toit sur lui quand il dort, il dort à la belle étoile, toujours dans la pauvreté
+- Vers 8 : poétisation de la nuit en leur attribuant une sonorité
+- Vers 9 : assis : Toujours un symbole de dénuement
+- Vers 10-11 : contact avec la nature, la nature redonne des forces au poète
+- Ici, Rimbaud nous montre que c'est lors de ces voyages qu'il trouve l'inspiration. Il nous montre aussi qu'il est heureux lors de ce voyage
+- Vers 12 : rimant : il trouve des rimes lors du voyage pour ses poèmes | ombres fantastiques : il crée par là une atmosphère nocturne et magique
+- Vers 13 : Il ridiculise les lyres, symbole de la poésie depuis le mythe d'Orphée en les comparant à ses élastiques
+- Vers 14 : Souliers blessés : écho au paletot et à la culotte
+- Rimbaud nous montre ici que ce voyage est source de création, c'est là ou il compose ses poèmes

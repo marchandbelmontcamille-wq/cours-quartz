@@ -1,4 +1,4 @@
-## Physique Chimie
+ ## Physique Chimie
 
 - **PC-1**
   ![[PC-1.png]]
@@ -48,3 +48,11 @@
   ![[PC-24.png]]
 - **PC-25**
   ![[PC-25.png]]
+- **PC-26**
+  ![[PC-26.png]]
+- **PC-27**
+  ![[PC-27.png]]
+- **PC-28**
+  ![[PC-28.png]]
+- **PC-29**
+  ![[PC-29.png]]

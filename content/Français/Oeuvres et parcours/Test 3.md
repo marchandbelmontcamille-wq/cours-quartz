@@ -1,0 +1,17 @@
+- Vers 1 : cercueil en fer blanc : comparaison macabre
+- Vers 2 : femme à cheveux bruns : La Vénus du mythe est très fortement dépréciée par cette description
+- Vers 3 : vielle baignoire, émerge : parodie de la légende 
+- Vers 4 : lente et bête, déficits assez mal ravaudés : vocabulaire péjoratif et totale contradiction avec la légende
+- Rimbaud remplace la naissance d'une femme sublime par la sortie grotesque d'une baignoire d'une femme usée
+- Vers 5 : Puis : on descend le regard | col gras et gris : allitération en -g et vocabulaire péjoratif
+- Vers 6-7 : large omoplates qui saillent, dos qui rentre et ressort, rondeurs : femme réduite à une masse de chair informe
+- Vers 8 : graisse/gras : polyptote, la femme est devenue informe
+- Rimbaud nous montre ici une transformation grotesque d'une Vénus autrefois sublime réduite à une masse de chair informe
+- Vers 9 : échine : animalisation de la femme | rouge : couleur malsaine, maladive | confusion gout odeur : odeur lourde et horrible
+- Vers 10 : surtout : introduit les singularités
+- Vers 11 : singularités : laisse penser que la femme a des problèmes de santé | faut, loupe : Ces problèmes ne seraient visibles qu'avec des instruments de médecine
+- Rimbaud nous montre une femme malade, usée et en mauvaise santé
+- Vers 12 : reins : on porte l'attention sur les fesses de la femme comme au deuxième mouvement | Clara Venus : "Illustre Vénus" ironie totale avec la légende qui nous laisse penser que cette femme a été la Vénus du mythe auparavant
+- Vers 13 : remue croupe : Cette femme n'est plus considérée comme humaine et est animalisée. La croupe évoquée fait penser à une croupe de cheval. Elle est évoquée comme "corps" et non comme femme
+- Vers 14 : Belle hideusement : Rimbaud attire l'attention sur la laideur de la femme | ulcère à l'anus : la chute de Rimbaud nous fait paraitre la femme encore plus répugnante
+- Rimbaud termine ce poème en animalisant encore plus la femme, en arrêtant de penser qu'elle est humaine.

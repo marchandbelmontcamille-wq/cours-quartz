@@ -18,11 +18,17 @@ Pour conclure, les Cahiers de Douai montrent qu'Arthur Rimbaud est un jeune poè
 Rimbaud construit un face à face dramatique entre Louis XVI et le forgeron, entre le tyran et le porte parole du peuple. La description qu'il dresse de la foule révolutionnaire et le discours polémique du forgeron justifient, légitiment la violence du peuple comme le résultat des injustices subies par un peuple révolté.
 
 Enjeu : Dans ce passage, Rimbaud légitime t'il la révolte du peuple contre un système tyrannique
-
-![[FR-27.png|700]]
+![[FR-29.png]]
+![[FR-27.png]]
 Poete voyant :
 - Explore la part d'inconnu qui est en lui
 - par un dérèglement des sens, parvient à voir le monde différemment, à voir au delà du monde matériel
 - Trouver une langue poétique nouvelle pour traduire ces visions
 - Sa mission = Transmettre ces visions
 Par exemple, dans Ma Bohème
+
+
+
+
+
+On trouve alors dans le recueil les premières recherches de la "voyance". Dans "Ophélie", les "grandes visions" du personnage et son rapport à l’Infini annoncent une quête de l’inconnu, mais aussi ses dangers, comme la folie et la mort. Dans "Le Buffet", le poète dépasse les apparences d’un objet quotidien pour faire surgir un univers de sensations et de souvenirs. Ces expériences préparent l’idéal du poète voyant, que Rimbaud définira en 1871 par un "long, immense et raisonné dérèglement de tous les sens". Les Cahiers de Douai annoncent ainsi une poésie nouvelle, capable de transformer notre perception du monde.

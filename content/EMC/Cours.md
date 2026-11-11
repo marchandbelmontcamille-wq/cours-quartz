@@ -1,0 +1,1 @@
+La socialisation politique, ce sont des apprentissages en rapport avec la politique (les idées politiques, les partis politiques, les hommes et femmes politiques, etc)  

@@ -152,7 +152,7 @@ Il est également célèbre pour avoir ramené la pierre de Rosette en France, q
 Il fait un coup d'état, le 18 Brumaire
 ## IV- L'ordre napoléonien (1799-1815)
 ### 1. Napoléon Bonaparte, 1$^{er}$ consul puis empereur
-Bonaparte est au pouvoir depuis 1799, mais il renonce à établir une monarchie dès cette date. Il maintient la République. Il supprime le Directoire pour supprimer le Consulat. Il rétablit le suffrage universel. Les élections sont manipulées, il y a la multiplication d'assemblées sans réel pouvoir
+Bonaparte est au pouvoir depuis 1799, mais il renonce à établir une monarchie dès cette date. Il maintient la République. Il supprime le Directoire pour créer le Consulat. Il rétablit le suffrage universel. Les élections sont manipulées, il y a la multiplication d'assemblées sans réel pouvoir
 
 Il y a trois consuls, mais le pouvoir appartient uniquement au 1er consul. C'est un régime autoritaire sous couvert démocratique.
 
@@ -187,4 +187,11 @@ Napoléon va signer le Concordat, en 1801, qui réaffirme la liberté de culte, 
 Il y a aussi le rétablissement de la traite des noirs dans les colonies. C'est un retour à l'Ancien Régime. Son but est le rétablissement de l'économie des colonies. La conséquence est la révolte des anciens esclaves de la colonie de Saint Domingue.
 
 ### 4) L'Europe conquise et transformée
-Napoléon Bonaparte, dès que la transformation de la France est finie, entreprend de conquérir l'Europe
+Napoléon Bonaparte, dès que la transformation de la France est finie, entreprend de conquérir l'Europe.
+
+II enchaîne les victoires et les triomphes, grâce à son talent militaire, la qualité de son armée, avec des gradés mieux formés et surtout une armée nombreuse, qui repose sur la conscription, entraînée, préparée, motivée par son adhésion au chef, et des récompenses comme la Légion d'Honneur. Ces victoires aboutissent à une modification complète de la carte de l'Europe, qui connaîtra son apogée en 1811. L'Empire français s'étend sur la France, le Benelux et une partie de la Croatie, directement administré par Napoléon. A côté, il y a plusieurs pays dépendants, qui sont parfois des créations de Napoléon. Ils sont administrés par des frères ou beaux frères de Napoléon. Il y a aussi des états alliés, qui restent sous l'autorité de leur monarque. Dans ces territoires, les politiques napoléoniennes seront appliquées avec tout ce que ca veut dire: code civil, égalité devant la loi, liberté de culte, etc.
+### 5) L'effondrement de l'empire
+L'occupation au début est perçue de manière positive par les population parce que le code civil apporte des droits nouveaux. Progressivement, l'idée d'être sous la domination d'une puissance étrangère et les conditions extrêmement dures de l'occupation, un tribut important à payer, l'idée de devoir prendre en charge les frais de l'armée française et de devoir être conscrits. La conséquence est le développement de révoltes qui vont fragiliser l'Empire. La plus importante est la révolte espagnole, dès 1908. Ce qui va marquer le début de la fin est la campagne de Russie en 1812. Cela entraîne la destruction de l'armée française lors de la débâcle de Russie, vaincue par la résistance russe et le froid. La série de défaites qui s'ensuit entraîne l'abdication de Napoléon en 1814. Il revient au pouvoir en 1815 puis doit re abdiquer à la défaite de Waterloo.
+
+Différents chefs d'état français au 19eme siècle essaient de s'approprier l'héritage napoléonien y compris qui ne font pas partie de sa propre famille
+
